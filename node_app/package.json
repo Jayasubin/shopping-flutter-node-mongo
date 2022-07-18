@@ -1,0 +1,17 @@
+{
+  "name": "shopping-api",
+  "version": "1.0.0",
+  "description": "Sample Shopping App",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "Jayasubin J",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
